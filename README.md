@@ -6,5 +6,10 @@ Trabalho executado via Canva: Transições, Imagens e conteúdo.
 https://www.canva.com/design/DAHBPtOYYOY/Y91XJG3HZsJTJRS_PR7yhA/edit?utm_content=DAHBPtOYYOY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Atividade de Dados Abertos em Planilhas.
-Trabalho executado via Excel: Formatação em Tabelas e Remoção de Duplicatas
+Trabalho executado via Excel: Formatação em Tabelas e Remoção de Duplicatas.
 <img width="1919" height="1030" alt="Captura de tela 2026-02-27 201529" src="https://github.com/user-attachments/assets/7d14b8b2-0332-4da2-a4ba-a32ffa43bad4" />
+
+## Atividade de função PROCV.
+Trabalho executado via Excel: Funções e Formatações de Gráfico.
+<img width="633" height="528" alt="Captura de tela 2026-03-06 201642" src="https://github.com/user-attachments/assets/c2c4ccfd-f52f-4052-b2d2-180184a3bb4d" />
+
