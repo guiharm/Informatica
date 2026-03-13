@@ -13,3 +13,7 @@ Trabalho executado via Excel: Formatação em Tabelas e Remoção de Duplicatas.
 Trabalho executado via Excel: Funções e Formatações de Gráfico.
 <img width="633" height="528" alt="Captura de tela 2026-03-06 201642" src="https://github.com/user-attachments/assets/c2c4ccfd-f52f-4052-b2d2-180184a3bb4d" />
 
+## Atividade de função SOMASE e CONT.SE
+Trabalho executado via Excel: Funções de soma e contetação de informações.
+<img width="1856" height="711" alt="Captura de tela 2026-03-12 223756" src="https://github.com/user-attachments/assets/8d21f1a2-fef8-4c89-9d41-a6e540fdb811" />
+<img width="797" height="356" alt="Captura de tela 2026-03-12 223813" src="https://github.com/user-attachments/assets/3ac9dd4b-fcfa-4e0e-97d9-84516bd38e3b" />
