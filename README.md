@@ -20,6 +20,13 @@ Trabalho executado via Excel: Funções de soma e contetação de informações.
 
 ## Atividade Dados Abertos de SP - Multas Pagas.
 Trabalho executado via Excel: Função SOMASE e questões sobre o assunto.
+
+<div>
 <img width="383" height="99" alt="Captura de tela 2026-04-10 190813" src="https://github.com/user-attachments/assets/3aadcbdc-d298-4fd1-99eb-e0d12cdf52b2" />
+</div>
+<div>
 <img width="526" height="379" alt="Captura de tela 2026-04-10 190825" src="https://github.com/user-attachments/assets/ed668f4f-ceab-4ab4-aa2f-6a3db76cbb17" />
-![WhatsApp Image 2026-04-10 at 19 05 13](https://github.com/user-attachments/assets/12fc4e01-1efc-4c42-8aef-4e749dc8a5d5)
+</div>
+<div>
+<img width="1283" height="760" alt="Captura de tela 2026-04-10 191216" src="https://github.com/user-attachments/assets/f378ff54-5b60-492a-88ae-80b3a3894741" />
+</div>
