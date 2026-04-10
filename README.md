@@ -17,3 +17,9 @@ Trabalho executado via Excel: Funções e Formatações de Gráfico.
 Trabalho executado via Excel: Funções de soma e contetação de informações.
 <img width="1856" height="711" alt="Captura de tela 2026-03-12 223756" src="https://github.com/user-attachments/assets/8d21f1a2-fef8-4c89-9d41-a6e540fdb811" />
 <img width="797" height="356" alt="Captura de tela 2026-03-12 223813" src="https://github.com/user-attachments/assets/3ac9dd4b-fcfa-4e0e-97d9-84516bd38e3b" />
+
+## Atividade Dados Abertos de SP - Multas Pagas.
+Trabalho executado via Excel: Função SOMASE e questões sobre o assunto.
+<img width="383" height="99" alt="Captura de tela 2026-04-10 190813" src="https://github.com/user-attachments/assets/3aadcbdc-d298-4fd1-99eb-e0d12cdf52b2" />
+<img width="526" height="379" alt="Captura de tela 2026-04-10 190825" src="https://github.com/user-attachments/assets/ed668f4f-ceab-4ab4-aa2f-6a3db76cbb17" />
+![WhatsApp Image 2026-04-10 at 19 05 13](https://github.com/user-attachments/assets/12fc4e01-1efc-4c42-8aef-4e749dc8a5d5)
