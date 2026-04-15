@@ -30,3 +30,30 @@ Trabalho executado via Excel: Função SOMASE e questões sobre o assunto.
 <div>
 <img width="1283" height="760" alt="Captura de tela 2026-04-10 191216" src="https://github.com/user-attachments/assets/f378ff54-5b60-492a-88ae-80b3a3894741" />
 </div>
+
+## Atividade Dados Abertos de SP - Transporte.
+Trabalho executado via Excel: Uso de formúlas e perguntas e respostas sobre o assunto.
+
+<div>
+  <img width="1895" height="839" alt="Captura de tela 2026-04-14 215743" src="https://github.com/user-attachments/assets/f907b6f6-45bb-48b4-abe1-c357760ff5f1" />
+</div>
+<div>
+  <img width="562" height="117" alt="Captura de tela 2026-04-14 215812" src="https://github.com/user-attachments/assets/f07217da-d5f6-4ba4-8426-b8d469eab52d" />
+</div>
+<div>
+  <img width="542" height="125" alt="Captura de tela 2026-04-14 215824" src="https://github.com/user-attachments/assets/e8ddc589-2645-4391-a4e3-c6e3b7f91ac4" />
+</div>
+<div>
+  <img width="465" height="123" alt="Captura de tela 2026-04-14 215838" src="https://github.com/user-attachments/assets/4784e75c-650a-4e77-a58c-ed84809563d1" />
+</div>
+<div>
+  <img width="486" height="100" alt="Captura de tela 2026-04-14 215845" src="https://github.com/user-attachments/assets/fa6a8ba6-e300-4ba7-ae81-aecbf17386dd" />
+</div>
+<div>
+  <img width="433" height="122" alt="Captura de tela 2026-04-14 215857" src="https://github.com/user-attachments/assets/56cd2cb6-6b9b-4d70-8ac7-75199683175d" />
+</div>
+
+
+
+
+
