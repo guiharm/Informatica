@@ -53,6 +53,12 @@ Trabalho executado via Excel: Uso de formúlas e perguntas e respostas sobre o a
   <img width="433" height="122" alt="Captura de tela 2026-04-14 215857" src="https://github.com/user-attachments/assets/56cd2cb6-6b9b-4d70-8ac7-75199683175d" />
 </div>
 
+## Certificado de Curso de Python.
+Formação voltada aos fundamentos da linguagem.
+
+<img width="624" height="632" alt="Captura de tela 2026-04-16 222022" src="https://github.com/user-attachments/assets/6cbbb542-0b1c-4c82-b9d8-a1d8c929dc1d" />
+
+
 
 
 
