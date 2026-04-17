@@ -56,7 +56,8 @@ Trabalho executado via Excel: Uso de formúlas e perguntas e respostas sobre o a
 ## Certificado de Curso de Python.
 Formação voltada aos fundamentos da linguagem.
 
-<img width="624" height="632" alt="Captura de tela 2026-04-16 222022" src="https://github.com/user-attachments/assets/6cbbb542-0b1c-4c82-b9d8-a1d8c929dc1d" />
+<img width="338" height="476" alt="Captura de tela 2026-04-16 222146" src="https://github.com/user-attachments/assets/d5c1d057-991f-4343-85a6-6a89289de89c" />
+
 
 
 
