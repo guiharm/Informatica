@@ -73,7 +73,9 @@ Trabalho executado via Power BI: criação de visual.
 Trabalho executado via Power BI: criação de visual.
 <img width="1149" height="647" alt="Captura de tela 2026-05-29 194317" src="https://github.com/user-attachments/assets/a2e7432c-7fe1-4318-96bd-95b7f09cf0f4" />
 
-
+## Atividade Regressão Linear.
+Trabalho executado via Python: criação de tabela.
+<img width="1113" height="945" alt="Captura de tela 2026-05-29 195227" src="https://github.com/user-attachments/assets/9fa1577c-5150-4a10-91b3-eb59207320d8" />
 
 
 
