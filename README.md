@@ -69,7 +69,9 @@ Trabalho executado via Power BI: criação de visual.
 <img width="1313" height="734" alt="Captura de tela 2026-05-29 193032" src="https://github.com/user-attachments/assets/db7c1a8e-b8af-4175-8a4c-d83a18cb23b9" />
 <img width="1301" height="737" alt="Captura de tela 2026-05-29 192815" src="https://github.com/user-attachments/assets/3cb42cb0-9fbb-4733-90db-e86bc3b23591" />
 
-
+## Atividade Dados Abertos de SP - Desligamentos.
+Trabalho executado via Power BI: criação de visual.
+<img width="1149" height="647" alt="Captura de tela 2026-05-29 194317" src="https://github.com/user-attachments/assets/a2e7432c-7fe1-4318-96bd-95b7f09cf0f4" />
 
 
 
