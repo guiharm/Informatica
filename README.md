@@ -77,6 +77,10 @@ Trabalho executado via Power BI: criação de visual.
 Trabalho executado via Python: criação de tabela.
 <img width="1113" height="945" alt="Captura de tela 2026-05-29 195227" src="https://github.com/user-attachments/assets/9fa1577c-5150-4a10-91b3-eb59207320d8" />
 
+## Atividade Conficientes Lineares.
+Trabalho executado via Python: criação de tabela.
+<img width="1421" height="915" alt="Captura de tela 2026-05-29 195719" src="https://github.com/user-attachments/assets/95517c60-3248-4da9-b339-696dd5de3649" />
+
 
 
 
