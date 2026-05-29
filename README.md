@@ -80,6 +80,19 @@ Trabalho executado via Python: criação de tabela.
 ## Atividade Conficientes Lineares.
 Trabalho executado via Python: criação de tabela.
 <img width="1421" height="915" alt="Captura de tela 2026-05-29 195719" src="https://github.com/user-attachments/assets/95517c60-3248-4da9-b339-696dd5de3649" />
+<img width="745" height="416" alt="Captura de tela 2026-05-29 200526" src="https://github.com/user-attachments/assets/f04e8d8f-d257-4ce7-bbc1-ab096dc959e4" />
+<img width="746" height="431" alt="Captura de tela 2026-05-29 200518" src="https://github.com/user-attachments/assets/421ed5c4-3381-4fd6-afac-2793d21446b2" />
+<img width="753" height="430" alt="Captura de tela 2026-05-29 200459" src="https://github.com/user-attachments/assets/8e5b931f-97ad-4033-b4e6-68803ef8ee9e" />
+<img width="751" height="415" alt="Captura de tela 2026-05-29 200614" src="https://github.com/user-attachments/assets/779fa263-7c73-487f-bf84-3ad9710bb36d" />
+<img width="748" height="427" alt="Captura de tela 2026-05-29 200605" src="https://github.com/user-attachments/assets/a24c31c8-c5fa-4c85-a77f-dea0923786e5" />
+<img width="754" height="433" alt="Captura de tela 2026-05-29 200600" src="https://github.com/user-attachments/assets/1205a0b6-67d8-46bb-9bd6-411fa17b2cff" />
+<img width="751" height="424" alt="Captura de tela 2026-05-29 200554" src="https://github.com/user-attachments/assets/3e65cb28-fe84-4dfa-80c8-7f7465e1bd2f" />
+<img width="755" height="444" alt="Captura de tela 2026-05-29 200548" src="https://github.com/user-attachments/assets/38e3f686-91e4-46b7-b93d-1aa20b010b1d" />
+<img width="742" height="418" alt="Captura de tela 2026-05-29 200541" src="https://github.com/user-attachments/assets/ca614d34-a99b-40da-a7af-588f25726024" />
+<img width="747" height="416" alt="Captura de tela 2026-05-29 200535" src="https://github.com/user-attachments/assets/48dbe305-a7c9-4ec3-b2ed-2d5ce41d99d3" />
+
+
+
 
 ## Atividade Criação de Dashboard.
 Trabalho executado via Power BI: criação de tabela usando conhecimentos adquiridos durante as aulas.
