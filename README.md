@@ -59,6 +59,43 @@ Formação voltada aos fundamentos da linguagem.
 <img width="338" height="476" alt="Captura de tela 2026-04-16 222146" src="https://github.com/user-attachments/assets/d5c1d057-991f-4343-85a6-6a89289de89c" />
 
 
+## Atividade Dados Abertos de SP - Sinistros.
+Trabalho executado via Power BI: criação de visual.
+<img width="1313" height="731" alt="Captura de tela 2026-05-29 192721" src="https://github.com/user-attachments/assets/6ed1b849-f818-4a2e-a205-a5472cf51722" />
+
+## Atividade Dados Abertos de SP - Raça.
+Trabalho executado via Power BI: criação de visual.
+<img width="1307" height="738" alt="Captura de tela 2026-05-29 193151" src="https://github.com/user-attachments/assets/2dd52669-3cef-4489-b938-61bacfdcb733" />
+<img width="1313" height="734" alt="Captura de tela 2026-05-29 193032" src="https://github.com/user-attachments/assets/db7c1a8e-b8af-4175-8a4c-d83a18cb23b9" />
+<img width="1301" height="737" alt="Captura de tela 2026-05-29 192815" src="https://github.com/user-attachments/assets/3cb42cb0-9fbb-4733-90db-e86bc3b23591" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
