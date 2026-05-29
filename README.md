@@ -81,6 +81,9 @@ Trabalho executado via Python: criação de tabela.
 Trabalho executado via Python: criação de tabela.
 <img width="1421" height="915" alt="Captura de tela 2026-05-29 195719" src="https://github.com/user-attachments/assets/95517c60-3248-4da9-b339-696dd5de3649" />
 
+## Atividade Criação de Dashboard.
+Trabalho executado via Power BI: criação de tabela usando conhecimentos adquiridos durante as aulas.
+<img width="1152" height="654" alt="Captura de tela 2026-05-29 200134" src="https://github.com/user-attachments/assets/b01a96f0-644f-4981-8e90-2157745697dc" />
 
 
 
